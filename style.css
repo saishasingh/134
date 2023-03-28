@@ -1,0 +1,21 @@
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#labelstatus
+{
+font-size: 18px;
+}
+body {
+    background-position:center;
+    
+    
+}
+canvas{
+    box-shadow: 5px 5px 5px goldenrod;
+    margin-top: 80px;
+    
+}
